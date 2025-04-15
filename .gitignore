@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# JMeter logs
+jmeter.log
+*.jtl
+
+# K6 result outputs
+results/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE directories
+.idea/
+.vscode/
+*.sublime-*
